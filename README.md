@@ -18,7 +18,8 @@ This template project uses
 * Joda-Time
 * jQuery
 * Bootstrap
-* Ashok
+* Ashok Shingade
+* Shivanjali
 ![screen shot][2]
 
 
