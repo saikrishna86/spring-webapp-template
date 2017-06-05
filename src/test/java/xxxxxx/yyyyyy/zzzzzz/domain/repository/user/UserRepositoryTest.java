@@ -1,4 +1,4 @@
-#package xxxxxx.yyyyyy.zzzzzz.domain.repository.user;
+package xxxxxx.yyyyyy.zzzzzz.domain.repository.user;
 
 import static org.junit.Assert.*;
 
